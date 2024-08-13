@@ -129,7 +129,7 @@
   justify-content: center;
 }
 
-.video__caption {
+.recipes__video-caption {
   display: flex;
   justify-content: space-between;
   font-weight: 500;
