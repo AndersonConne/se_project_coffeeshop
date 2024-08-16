@@ -3,6 +3,11 @@
   padding: 60px 80px;
 }
 
+.footer__logo {
+  width: 105px;
+  height: 39px;
+}
+
 .footer__content {
   display: flex;
 }
@@ -28,9 +33,16 @@
   margin: 0;
 }
 
+.footer__list-item {
+  padding-bottom: 16px;
+}
+
+.footer__list-item:last-of-type {
+  padding-bottom: 0;
+}
+
 .footer__social-link {
   display: flex;
-  padding-bottom: 16px;
   font-size: 16px;
   line-height: 20px;
   color: white;
@@ -50,8 +62,8 @@
 }
 
 .footer__copyright {
-  margin-top: 108px;
   font-size: 16px;
   line-height: 20px;
   color: white;
+  margin: 108px 0 0 0;
 }

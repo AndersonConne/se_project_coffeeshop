@@ -43,6 +43,11 @@
   line-height: 30px;
 }
 
+.about__paragraph {
+  margin: 0;
+  margin-bottom: 20px;
+}
+
 .about__circle {
   position: absolute;
   top: -152px;
