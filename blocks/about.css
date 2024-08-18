@@ -44,10 +44,10 @@
 }
 
 .about__paragraph {
-  margin-bottom: 20px;
+  margin: 0 0 20px;
 }
 
-p.about__paragraph:last-child {
+.about__paragraph:last-child {
   margin: 0;
 }
 
